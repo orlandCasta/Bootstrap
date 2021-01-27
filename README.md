@@ -1,2 +1,2 @@
-# bootstrap
-content on practices carried out on layout with bootstrap
+# Bootstrap
+in this repository you will find html files about the different elements that can be created in bootstrap
